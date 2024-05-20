@@ -1,4 +1,4 @@
-Boumis, G., Moftakhari, H. R., & Moradkhani, H. (2024). A metastatistical frequency analysis of extreme storm surge hazard along the US coastline. *Coastal Engineering Journal* [https://doi.org/10.1080/21664250.2024.2338323](https://doi.org/10.1080/21664250.2024.2338323)
+Boumis, G., Moftakhari, H. R., & Moradkhani, H. (2024). A metastatistical frequency analysis of extreme storm surge hazard along the US coastline. *Coastal Engineering Journal, 66(2), 380–394.* [https://doi.org/10.1080/21664250.2024.2338323](https://doi.org/10.1080/21664250.2024.2338323)
 <p align="center">
   <img src="Boston-quantile-to-quantile.png"/>
 </p>
